@@ -186,7 +186,7 @@ Currently the knowledge base uses hand-written summaries. With more time, I woul
 
 ## 👩‍💻 Author
 
-**Satyam Patel**
+**Tanishq Soni**
 
 ---
 
