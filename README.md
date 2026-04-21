@@ -1,6 +1,6 @@
 # ⚛️ Physics Study Buddy — AI Study Assistant
 
-> **Capstone Project | Agentic AI Course 2026 | Dr. Kanthi Kiran Sirra**
+> **Capstone Project | Agentic AI Course 2026 | Guidance: Dr. Kanthi Kiran Sirra**
 
 ---
 
@@ -154,7 +154,7 @@ python tests/test_agent.py
 
 **11/11 tests passed** | Average faithfulness: 0.94 | Red-team: 2/2 passed
 
-> ✅ **M — Student name memory test** (3-turn Streamlit session): Agent greeted "Aryan" in Turn 1 and recalled the name unprompted in Turn 3 summary (route: memory_only, faithfulness: 1.00). **PASS**
+> ✅ **M — Student name memory test** (3-turn Streamlit session): Agent greeted "Tanishq" in Turn 1 and recalled the name unprompted in Turn 3 summary (route: memory_only, faithfulness: 1.00). **PASS**
 
 ---
 
