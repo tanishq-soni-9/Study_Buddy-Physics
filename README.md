@@ -181,3 +181,15 @@ Currently the knowledge base uses hand-written summaries. With more time, I woul
 - Expand topics to cover electromagnetism, quantum mechanics, nuclear physics
 - Add difficulty-level filtering (beginner / intermediate / advanced)
 - Persistent ChromaDB (replace in-memory with local disk storage)
+
+---
+
+## 👩‍💻 Author
+
+**Satyam Patel**
+
+---
+
+## ⭐ If you like this project
+
+Give it a ⭐ on GitHub and feel free to contribute!
